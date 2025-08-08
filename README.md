@@ -60,7 +60,7 @@ This project replicates a **real-world Business Intelligence workflow**, startin
 - 📅 **Date Range:** 2011 to 2014
 - 🛍️ **Sales, Profit, Quantity, and Discounts**
 - 🗂️ **Dimensions:** Region, State, Segment, Category, Sub-Category, Ship Mode
-- 📌 **Source:** cleaned_Super_store_orders_data.xlsx
+- 📌 **Source:** [cleaned_Super_store_orders_data.xlsx](https://github.com/abhijay191/Amazon-Sales---Analysis/blob/main/cleaned_Super_store_orders_data.xlsx)
 
 ---
 
