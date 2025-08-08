@@ -1,12 +1,45 @@
-# 📊 Amazon Superstore Sales Dashboard (Power BI Project)
+# 📊 Amazon Superstore Sales Dashboard (2011–2014)
 
-I created this comprehensive data visualization project using **Power BI** and **Excel** to analyze Amazon Superstore sales. The dashboard highlights key performance indicators (KPIs), uncovers sales trends, and presents actionable insights through interactive visuals.
+I developed this interactive and data-rich Power BI dashboard project to analyze **Amazon Superstore sales data** over a 4-year period (2011–2014). The objective was to derive meaningful insights into sales performance, customer behavior, and product trends, and to present these findings through an interactive, clean, and business-ready dashboard.
+
+This project replicates a **real-world Business Intelligence workflow**, starting from data cleaning in Excel, defining and calculating KPIs, modeling data in Power BI, and finally building an insightful, executive-level dashboard using **DAX** and **data storytelling techniques**.
 
 ---
 
-## 🚀 Project Overview
+## 🎯 Project Goals
 
-This project showcases real-world business intelligence skills, including data cleaning, KPI formulation, DAX calculations, and interactive dashboard development. The data used was cleaned and prepared in Excel, with metrics defined in a separate KPI sheet.
+- Understand key **sales drivers** and **profit trends**
+- Analyze performance across **regions**, **states**, and **customer segments**
+- Track **product category** performance and **shipping efficiency**
+- Build an intuitive dashboard with **interactive filters**, **visual summaries**, and **drill-downs**
+- Showcase **Power BI & Excel integration**, including DAX-based KPIs
+
+---
+
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](Dashboard.png)
+
+### 💡 Dashboard Highlights
+
+- 📌 KPI Cards: Total Sales, Profit, Quantity Sold
+- 🧭 Sales breakdown by Segment and Ship Mode
+- 🗺️ Profit & Sales map by State (India-focused)
+- 📆 Monthly & Yearly Trends (line & bar charts)
+- 🛍️ Top Products, Sub-Categories, and Categories
+- 🔄 Interactive Slicers for dynamic filtering
+- 📊 Visual balance between summary and detail
+
+---
+
+## 📊 Key Business Insights
+
+- The **Consumer segment** drives over **half of the total sales**
+- **Technology** is the top-performing category in both sales and profit
+- **Standard Class** shipping dominates, accounting for ~60% of all orders
+- Highest sales and profit occur during **Q4 (Oct–Dec)** every year
+- A small group of products (top 10) accounts for a significant share of sales
+- Certain Indian states (like Maharashtra and Karnataka) consistently outperform others
 
 ---
 
@@ -14,63 +47,62 @@ This project showcases real-world business intelligence skills, including data c
 
 | File Name                          | Description                                           |
 |-----------------------------------|-------------------------------------------------------|
-| `amazon.pbix`                     | Power BI dashboard with interactive reports          |
-| `cleaned_Super_store_orders_data.xlsx` | Cleaned Excel dataset used for visuals and KPIs |
-| `Amazon sales kpi.xlsx`           | Defined KPIs and metric formulas                    |
-| `Dashboard.png`                   | Image preview of the final dashboard                |
-| `README.md`                       | Project documentation (this file)                   |
+| `amazon.pbix`                     | Main Power BI dashboard file                          |
+| `cleaned_Super_store_orders_data.xlsx` | Excel file with cleaned, transformed data         |
+| `Amazon sales kpi.xlsx`           | Defined KPIs and calculations used in visuals         |
+| `Dashboard.png`                   | Screenshot of the final Power BI dashboard            |
+| `README.md`                       | Project overview and documentation                    |
 
 ---
 
-## 📸 Dashboard Preview
+## 📦 Data Overview
 
-![Dashboard Screenshot](Dashboard.png)
-
----
-
-## 📌 Dashboard Features
-
-- ✅ KPI Cards: Total Sales, Total Profit, Orders, and Quantity
-- ✅ Category and Sub-category Sales Breakdown
-- ✅ Regional and State-Level Analysis
-- ✅ Time Series Charts: Monthly Sales & Profit Trends
-- ✅ Segment and Shipping Mode Performance
-- ✅ Dynamic Filters and Slicers for interactive exploration
+- 📅 **Date Range:** 2011 to 2014
+- 🛍️ **Sales, Profit, Quantity, and Discounts**
+- 🗂️ **Dimensions:** Region, State, Segment, Category, Sub-Category, Ship Mode
+- 📌 **Source:** Sample Amazon Superstore dataset (simulated)
 
 ---
 
-## 📊 Insights Highlighted
+## 🛠️ Tools & Technologies
 
-- Top-performing regions and states
-- Most profitable product categories
-- Customer behavior across segments
-- Shipping trends and their impact on delivery performance
-- Time-based patterns in sales and profitability
-
----
-
-## 🛠️ Tools Used
-
-| Tool            | Purpose                                  |
-|-----------------|-------------------------------------------|
-| Microsoft Excel | Data cleaning, KPI definitions            |
-| Power BI        | Dashboard creation, DAX, visualizations   |
-| GitHub          | Version control and project sharing       |
+| Tool             | Usage                                           |
+|------------------|-------------------------------------------------|
+| **Microsoft Excel**  | Data cleaning, KPI setup                       |
+| **Power BI Desktop** | Data modeling, dashboard design               |
+| **DAX (Data Analysis Expressions)** | KPI calculations and dynamic metrics |
+| **GitHub**          | Version control and project hosting            |
 
 ---
 
-## 💡 What I Learned
+## 🧠 What I Learned
 
-- Effective use of Power BI for business storytelling
-- Advanced DAX calculations for KPIs and filters
-- Building interactive dashboards for non-technical users
-- Structuring BI projects for collaboration and reusability
+- ✅ End-to-end BI pipeline from raw data to actionable insights
+- ✅ Creating reusable and maintainable Power BI models
+- ✅ Writing optimized and accurate DAX formulas
+- ✅ Balancing aesthetic design with functional storytelling
+- ✅ Preparing real-world projects for professional portfolios
+
+---
+
+## 💼 Portfolio Relevance
+
+This project demonstrates core skills every Data Analyst or BI Developer needs:
+
+- 📊 Strong analytical thinking
+- 🧩 Data modeling and transformations
+- 📈 Business-centric visual storytelling
+- 📎 Tool integration (Excel + Power BI)
+- 🛠️ Project documentation for versioning and collaboration
 
 ---
 
 ## 📫 Connect with Me
 
-- **GitHub:** https://github.com/abhijay191
-- **Email:** abhijaysing.as@gmail.com
+- **GitHub:** [abhijay191](https://github.com/abhijay191)
+- **LinkedIn:** https://www.linkedin.com/in/abhijay-singh-971801198/
+- **Email:** abhijaysingh.as@gmail.com
+
+
 ---
 
