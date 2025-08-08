@@ -60,7 +60,7 @@ This project replicates a **real-world Business Intelligence workflow**, startin
 - 📅 **Date Range:** 2011 to 2014
 - 🛍️ **Sales, Profit, Quantity, and Discounts**
 - 🗂️ **Dimensions:** Region, State, Segment, Category, Sub-Category, Ship Mode
-- 📌 **Source:** Sample Amazon Superstore dataset (simulated)
+- 📌 **Source:** cleaned_Super_store_orders_data.xlsx
 
 ---
 
