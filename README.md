@@ -70,8 +70,7 @@ This project showcases real-world business intelligence skills, including data c
 
 ## 📫 Connect with Me
 
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-- **Email:** your.email@example.com
-
+- **GitHub:** https://github.com/abhijay191
+- **Email:** abhijaysing.as@gmail.com
 ---
 
